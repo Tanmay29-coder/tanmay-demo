@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "103200839872",
+    "project_id": "food-delivery-app-3202c",
+    "storage_bucket": "food-delivery-app-3202c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103200839872:android:0106d05f6e6a6d51c47525",
+        "android_client_info": {
+          "package_name": "com.tanmay.food_delivery_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTuCg-0iMqSrHtTS239-C234hB5rBQspY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
